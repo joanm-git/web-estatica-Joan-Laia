@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Benvinguts a Sobra rodes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Benvinguts a **Sobra rodes**, un concessionari especialitzat en la **compra i venda de vehicles**. En aquesta web podràs consultar els vehicles disponibles i obtenir informació sobre els nostres serveis.
 
-## Commands
+## Objectiu de la Web
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+L'objectiu d'aquesta web és oferir un espai on els clients puguin consultar de manera senzilla els vehicles disponibles i obtenir informació sobre el procés de compra i venda de vehicles.
 
-## Project layout
+A més, la web disposa d'un **blog** on es publiquen articles i informació relacionada amb el món de l'automòbil.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Seccions Principals
+
+A través del menú principal podràs accedir a les diferents seccions de la web:
+
+* **[Vehicles](vehicles/index.md):** consulta els vehicles disponibles i la informació de cada vehicle.
+* **[Compra-venda](compra_vehicle/index.md):** informació sobre el servei de compra i venda de vehicles.
+* **[Venda de vehicles](venda_vehicle/index.md):** informació sobre com vendre el teu vehicle amb nosaltres.
+* **[Blogs](blog/index.md):** articles i informació relacionada amb els vehicles i el sector de l'automòbil.
