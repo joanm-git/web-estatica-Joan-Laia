@@ -1,6 +1,6 @@
 # Audi TT
 
-![audi-TT](img/audi tt.jpg)
+![audi-TT](img/audi-tt.jpg)
 
 ## Informació general
 
