@@ -13,7 +13,7 @@ les seves característiques, motor, potència, acceleració i velocitat màxima.
 
 ### Audi tt
 
-![Audi tt](img/audi tt.jpg)
+![audi tt](img/audi-tt.jpg)
 
 L'Audi R8 és un esportiu de bones prestacions amb un motor 2.0 TFSI.
 
